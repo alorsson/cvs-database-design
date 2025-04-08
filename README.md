@@ -1,4 +1,6 @@
 # CVS Database Design
+[CVS Database Design Report – BUS 315 Project](./BUS-315%20CVS%20Project.pdf)
+
 
 **Course:** BUS 315 – Database Management  
 
